@@ -2,6 +2,6 @@ base:
   '*':
     - add-users
     - git
-  'os:windows':
+  'win10':
     - win-python3_x64
     - win-vscode
